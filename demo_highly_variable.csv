@@ -1,0 +1,4 @@
+scenario,true_GMR,CVwR_pct,n_subjects
+identical,1.0,45.0,36
+modest difference,1.1,45.0,36
+real difference,1.3,45.0,36

@@ -1,0 +1,12 @@
+streamlit>=1.36
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+plotly>=5.20
+matplotlib>=3.8
+tabulate>=0.9
+
+# Optional. The app degrades gracefully without these.
+# shap>=0.45
+# xgboost>=2.0
